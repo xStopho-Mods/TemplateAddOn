@@ -88,7 +88,7 @@ function TemplateAddOnSettings:BuildOptionsMenu()
     end
 
     -- == General Tab == --
-    RegisterCheckbox(general, "templateOption")
+    RegisterCheckbox(general, "templateSetting")
 
     Settings.RegisterAddOnCategory(general)
 end

@@ -5,7 +5,7 @@
 
 
 TemplateAddOnData = {
-    ["addonName"] = "BetterTooltip",
+    ["addonName"] = "TemplateAddOn",
     ["optionCategories"] = {
         ["deDE"] = {
             ["template"] = "Beispielkategorie"

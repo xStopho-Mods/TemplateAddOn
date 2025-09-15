@@ -1,0 +1,16 @@
+## Interface: 110200, 110205
+## Title: TemplateAddOn
+## Version: 0.0.1
+## Author: xStopho
+## Category: UI
+## Notes: TemplateAddOn for WoW-Retail
+## SavedVariables: TemplateAddOnDB
+
+## Complete Data
+TemplateAddOnData.lua
+
+## All functions that must be loaded before Main 
+TemplateAddOnSettings.lua
+
+## Main Entrypoint
+TemplateAddOnCore.lua
